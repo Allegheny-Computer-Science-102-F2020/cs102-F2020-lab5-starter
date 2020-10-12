@@ -8,7 +8,7 @@ TODO: Please provide a fenced code block that shows the output from running your
 
 TODO: Please provide a fenced code block that shows the output from running the test suite
 
-## What is the purpose of the following function in the context of the `display` module?
+## What is the purpose of the following function in the context of the `transform` module?
 
 ```
 def transform_string_to_number_list(data_text: str) -> List[float]:
